@@ -1,0 +1,5 @@
+﻿curseforge_slug,modrinth_fallback,name,role,install_set
+dynamic-fps,dynamic-fps,Dynamic FPS,performance-client,optional-client
+polymorph,polymorph,Polymorph,qol-conflict-helper,optional-client
+xaeros-minimap,,Xaero's Minimap,alternative-map,optional-client
+xaeros-world-map,,Xaero's World Map,alternative-map,optional-client

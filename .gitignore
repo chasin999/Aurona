@@ -1,0 +1,8 @@
+*.zip
+*.mrpack
+*.log
+.packwiz-cache/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

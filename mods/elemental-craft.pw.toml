@@ -1,0 +1,13 @@
+name = "Elemental Craft"
+filename = "elementalcraft-7.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed164ebadb686625a8a23660dc5a07c0bcc2cef0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7789218
+project-id = 395158
