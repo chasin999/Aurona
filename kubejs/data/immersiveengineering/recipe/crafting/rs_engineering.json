@@ -1,0 +1,25 @@
+{
+  "eight_turn": true,
+  "key": {
+    "c": {
+      "tag": "c:ingots/copper"
+    },
+    "i": {
+      "item": "create:precision_mechanism"
+    },
+    "r": {
+      "tag": "c:dusts/redstone"
+    }
+  },
+  "pattern": [
+    "iri",
+    "rcr",
+    "iri"
+  ],
+  "result": {
+    "id": "immersiveengineering:rs_engineering",
+    "count": 4
+  },
+  "category": "misc",
+  "type": "immersiveengineering:turn_and_copy"
+}

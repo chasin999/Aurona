@@ -1,0 +1,13 @@
+name = "Lice's Language Bridge"
+filename = "liceslanguagebridge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "34f584dc5e2c6c7fe6297216720086e2951fac3d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7639068
+project-id = 1464823

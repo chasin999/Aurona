@@ -6,3 +6,7 @@
 .idea/
 .DS_Store
 Thumbs.db
+.probe/
+notes/
+mod-groups/
+waitlist.md

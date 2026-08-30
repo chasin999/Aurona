@@ -1,13 +1,13 @@
-name = "Expert 1.21.1 NeoForge"
-author = "Pack Development Team"
+name = "Aurona"
+author = "Chasin"
 version = "0.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1f4e8744415f93b9df8325447bd806f8e0fef136e2de32ee65a4977b3d44abb6"
+hash = "ae0ef96e3e8b9af731caf78293319e98b0de9962767cab83a7d23a104c245dfe"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.238"
+neoforge = "21.1.248"

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#A#",
+    " B "
+  ],
+  "key": {
+    "#": {
+      "item": "botania:livingrock"
+    },
+    "A": {
+      "item": "botania:diluted_mana_pool"
+    },
+    "B": {
+      "item": "aurona:manasteel_plate"
+    }
+  },
+  "result": {
+    "id": "botania:mana_pool",
+    "count": 1
+  }
+}
