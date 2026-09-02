@@ -1,0 +1,13 @@
+name = "Oritech Kubejs"
+filename = "kubejs_oritech-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7476d7743817518ca907dc68a4c3df86ac33af5e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7417077
+project-id = 1420636

@@ -7740,6 +7740,11 @@ hash = "4204c6d9fa6f0a06ad20e813634c199114ed619680271da7f3a72f03bf779737"
 metafile = true
 
 [[files]]
+file = "mods/athena.pw.toml"
+hash = "38bddea8d550568799dd7f208c0bbe10280de3e456016a0d59aa20de112a2345"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "48ccf754257a1d140c12e4cee3bd7901392023fcd5a3fc961b7275448459fe73"
 metafile = true
@@ -8045,6 +8050,11 @@ hash = "d8e177615c38e56e8f712f9144c0f9f50e74adf5fe88c7fb0aa88e33cb1dbcdc"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-oritech-kjs.pw.toml"
+hash = "8f2a0c9187bbd1d5e64b77a3f8adc264831f179e3cbf79fef9f5b16acf9741b0"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-studio.pw.toml"
 hash = "e48511fb39a6693a5144be7a3a856ecb11503732d28298d8584006da0c22b556"
 metafile = true
@@ -8147,6 +8157,11 @@ metafile = true
 [[files]]
 file = "mods/occultism.pw.toml"
 hash = "3a3790ce534379a2bdbe963419c4463349e4273d9e51991970822d84c42eb390"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "1e095c1ef3d6f3a375df601a208657313d2c8a541d4d58944d808d292dddef81"
 metafile = true
 
 [[files]]
