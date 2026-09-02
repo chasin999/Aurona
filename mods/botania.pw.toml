@@ -3,6 +3,6 @@ filename = "botania-neoforge-1.21.1-456-20260824.151041-6.jar"
 side = "both"
 
 [download]
-url = "https://maven.blamejared.com/vazkii/botania/botania-neoforge-1.21.1/456-SNAPSHOT/botania-neoforge-1.21.1-456-20260824.151041-6.jar?utm_source=chatgpt.com"
+url = "https://maven.blamejared.com/vazkii/botania/botania-neoforge-1.21.1/456-SNAPSHOT/botania-neoforge-1.21.1-456-20260824.151041-6.jar"
 hash-format = "sha256"
 hash = "b957e37cd03e3f480657d2d724359e31ef5830e49262af827d158511db5e91a9"

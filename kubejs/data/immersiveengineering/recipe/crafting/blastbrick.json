@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#A#",
+    "ABA",
+    "#A#"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:bricks/nether"
+    },
+    "A": {
+      "tag": "c:bricks"
+    },
+    "B": {
+      "item": "ars_nouveau:fire_essence"
+    }
+  },
+  "result": {
+    "id": "immersiveengineering:blastbrick",
+    "count": 3
+  }
+}

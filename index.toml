@@ -7565,10 +7565,6 @@ file = ".probe/source_jars/records.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "adds.md"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -7623,6 +7619,18 @@ hash = "71e28fdcffae98d301f76c975241ee693dbf00cc7906e8a9975472703dc531f6"
 [[files]]
 file = "kubejs/data/botania/recipe/mana_pool.json"
 hash = "5494aa57c1582a89a02b3f2a7ddc88ccd5f96ad211f6ce5e010bc70041a66609"
+
+[[files]]
+file = "kubejs/data/electrodynamics/recipe/blasting/steel_ingot_from_iron_ingot.json"
+hash = "251a31a338ddb81c1eff49fdb22b7d950d88abe1191fd22ab3b3d547906822a8"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/recipe/crafting/blastbrick.json"
+hash = "4a97ceb81a149da783daaa293f9619f095b59df51ed40b4dd475399e3e489950"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/recipe/crafting/cokebrick.json"
+hash = "1a2ca0beab7672c475ebac159694331f8deb6d7627b3c9e744eae870d2808663"
 
 [[files]]
 file = "kubejs/data/immersiveengineering/recipe/crafting/rs_engineering.json"
@@ -7753,7 +7761,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "6e4f38fbbfd52de5971281cf833145c3917fa908408562f6f55cf09192a25f87"
+hash = "e7522961ed711926d9cb923f4ee9137c1bf8290c6fce2871ea0d3c12336aab8e"
 metafile = true
 
 [[files]]
@@ -7832,23 +7840,18 @@ hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
 metafile = true
 
 [[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "9b2d643d78dacf94289038a2f8c5f3d131528930bc73954d7f18e6e6b988c5ff"
+metafile = true
+
+[[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "e686bd63d4a2eff8640fae71d7e59799666335f8bf395da830ffb6bbfeb52325"
 metafile = true
 
 [[files]]
-file = "mods/datapack-anvil.pw.toml"
-hash = "f3fb9754b074fab18e36f381a64c9f41b240d409b3b7a494c0be621b934ddbde"
-metafile = true
-
-[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "ebb3df18070c94169933965dc6ef11ea68adb2b362623417e6b129f0af9a1bbe"
-metafile = true
-
-[[files]]
-file = "mods/dpanvil.pw.toml"
-hash = "f83bdd3139e275f97ab06729f874605844e76f366446fa05b49cd99f13b9f4d2"
 metafile = true
 
 [[files]]
@@ -7864,11 +7867,6 @@ metafile = true
 [[files]]
 file = "mods/electrodynamics.pw.toml"
 hash = "9e397fa4b5054642a083a4a1859121449eac18c9d6300c678e14eb76d9c83725"
-metafile = true
-
-[[files]]
-file = "mods/elemental-craft.pw.toml"
-hash = "2ba27165ca555ba4d5da1c8315d813e9d2073f6d7d27cede51b53f7f3ea7e3b0"
 metafile = true
 
 [[files]]
@@ -8012,11 +8010,6 @@ hash = "3f6a27001eb45ce6296829cfa9d7d41a0bd304914217f8dc3196feaa9030f963"
 metafile = true
 
 [[files]]
-file = "mods/iron-jetpacks.pw.toml"
-hash = "396254c3cd156fa0bfd06d1fef4af115c21e7222e3c2fa13450e89f50bc7df40"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "89420f657cec1038646f75531ae388e92d27c51c84b1f121e935ae5aecf995be"
 metafile = true
@@ -8077,6 +8070,11 @@ hash = "d0e24ed767661b7d0dcefd176de97801aa2887d22504cd8e91b77c56d7d203e0"
 metafile = true
 
 [[files]]
+file = "mods/lodestone.pw.toml"
+hash = "8590e77951c4fb7c1ac4a52f8e1e0fa0103518b8c64ef3ae55ae654bfd6d2594"
+metafile = true
+
+[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "2bf24ba89ee34b9c0f698a2d3ca2c64eb7676407b56ab311fa91a8dd7a1ad4a9"
 metafile = true
@@ -8097,6 +8095,11 @@ hash = "290b13afab94146d1159d821b73c8c98f5299b4df75fd28e826f9fd409e9bb40"
 metafile = true
 
 [[files]]
+file = "mods/miners-delight-plus.pw.toml"
+hash = "6309c1eba3f762ba6141a0369c5be7673a3056cc3804a8ff424300551157f8bd"
+metafile = true
+
+[[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "ed334bd8ff25757d72ac569a854f0a846b786d7704c2c36ebd95c00b97c7a6fe"
 metafile = true
@@ -8104,11 +8107,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b0364f6b95f6ed837239c232bad0e2d7317e58f0e4c040e66a4f533239d5775e"
-metafile = true
-
-[[files]]
-file = "mods/modonomicon.pw.toml"
-hash = "9937e9a35461a0d55b574bb3e363c342b033a937f3e99365697886df6ce5ba73"
 metafile = true
 
 [[files]]
@@ -8134,6 +8132,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
+metafile = true
+
+[[files]]
+file = "mods/nuclear-science.pw.toml"
+hash = "444869561b53f9ae5f5b91ce059d7f25466f4b77d027e1c8d73036396111e2ba"
 metafile = true
 
 [[files]]
@@ -8274,11 +8277,6 @@ metafile = true
 [[files]]
 file = "mods/the-undergarden.pw.toml"
 hash = "589b0a221074fcc182839eb75bfc9d50c25a1bdb05c6f6d53099e6e5d84921e6"
-metafile = true
-
-[[files]]
-file = "mods/theurgy.pw.toml"
-hash = "031d29ab6ac3dbbc0d80f980e2e2683629376cc682031f452c8597d56b4e8538"
 metafile = true
 
 [[files]]
