@@ -7570,15 +7570,19 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/assets/aurona/lang/en_us.json"
-hash = "abb9b3d058556332d5ce73880d7ddeefb0331edfaeeda98d142f52d3c0435a1c"
+hash = "ba6c92bbc62432c6aab571e7678f07c03f65a170a7adc5d4c39e39993668d35d"
 
 [[files]]
 file = "kubejs/assets/aurona/lang/zh_cn.json"
-hash = "2d3eb8d1e12bccaef9a6a7e4b55f41b07d4f64cbdbb6a82cf2524012fd435bbc"
+hash = "9585376309432b695b562471a1850a3edc582b930cf23961bd5480ced1cd7656"
 
 [[files]]
 file = "kubejs/assets/aurona/textures/item/elementium_plate.png"
 hash = "13957771d63d0cf07a65c323fa48e71f22eb593d974368d9bcfa853bc3a4945b"
+
+[[files]]
+file = "kubejs/assets/aurona/textures/item/infused_gold_ingot.png"
+hash = "ad4a3face46b422bd539ae843d770a895d57728d3753809721216e5d0adb13d2"
 
 [[files]]
 file = "kubejs/assets/aurona/textures/item/manasteel_plate.png"
@@ -7645,6 +7649,10 @@ file = "kubejs/server_scripts/00_readme.js"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "kubejs/server_scripts/ars/ie_cloche.js"
+hash = "fe62f4b801af103631bfe9f361a9a7089a22031770cbcffd455c53360ce78055"
+
+[[files]]
 file = "kubejs/server_scripts/aurona_plates_process.js"
 hash = "b3ae329015eb8559585cebf74815cb21b2a9fe1ecdd863c55666b83c4bcd04ff"
 
@@ -7657,8 +7665,12 @@ file = "kubejs/server_scripts/jsconfig.json"
 hash = "76baa3d2717a253e959bff6e1468592ebd9ec417e44e7f46846e57a4ca636c79"
 
 [[files]]
+file = "kubejs/server_scripts/removes.js"
+hash = "a5081d999ffe6a85e9056fbb6d05130249bb77ac9775aa61d801f2f10e21cdba"
+
+[[files]]
 file = "kubejs/startup_scripts/aurona_items.js"
-hash = "f9baa1bcc2e912bd70204493b858f83e114da2d904a0d1e152a2a4be558d1fb1"
+hash = "21d18bff5a2c6bb58178eb55f525fcf428849e29885b952cc39d658294395a45"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"

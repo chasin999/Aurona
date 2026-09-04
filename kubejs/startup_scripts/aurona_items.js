@@ -7,6 +7,9 @@ const itemToAdd=[
     },
     {
         name: 'elementium_plate',
+    },
+    {
+        name: 'infused_gold_ingot',
     }
 ]
 
