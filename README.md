@@ -17,6 +17,11 @@ Aurona is a work-in-progress expert modpack for Minecraft 1.21.1 NeoForge.
 
 This repository contains the packwiz metadata, KubeJS scripts and custom resources used by Aurona.
 
+## Todo
+
+- Aurona Machinery
+- Aurona Materials
+
 ## License
 
 Original content in this repository is licensed under the GNU General
