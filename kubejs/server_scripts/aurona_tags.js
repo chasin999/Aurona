@@ -1,3 +1,4 @@
+//plates
 ServerEvents.tags('item', event => {
     event.add(
         'c:plates/manasteel',
@@ -10,5 +11,12 @@ ServerEvents.tags('item', event => {
     event.add(
         'c:plates/elementium',
         'aurona:elementium_plate'
+    )
+})
+//alloys
+ServerEvents.tags('item', event => {
+    event.add(
+        'c:alloys/infused_gold',
+        'aurona:infused_gold_ingot'
     )
 })

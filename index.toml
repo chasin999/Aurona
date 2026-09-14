@@ -7565,6 +7565,10 @@ file = ".probe/source_jars/records.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "LICENSE"
+hash = "71fde1edcb300fade58a4190c11e15ddaae741b7f3cbfb6b100b8b20c41c6f67"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -7653,12 +7657,16 @@ file = "kubejs/server_scripts/ars/ie_cloche.js"
 hash = "fe62f4b801af103631bfe9f361a9a7089a22031770cbcffd455c53360ce78055"
 
 [[files]]
+file = "kubejs/server_scripts/aurona_alloy_process.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "kubejs/server_scripts/aurona_plates_process.js"
 hash = "b3ae329015eb8559585cebf74815cb21b2a9fe1ecdd863c55666b83c4bcd04ff"
 
 [[files]]
 file = "kubejs/server_scripts/aurona_tags.js"
-hash = "001f2f708f52f2edae3b69d7886662350f1c4b76d3af3d09fba0f532e2b50cc9"
+hash = "a18e34dd63ab41a3b1d01ba63a0d76048a426a6c67fab4edeef6aba195b13e43"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
@@ -7675,6 +7683,14 @@ hash = "21d18bff5a2c6bb58178eb55f525fcf428849e29885b952cc39d658294395a45"
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
 hash = "c598d8f9710af7a23f92cdd9061894afa84b2380377a66e15d293e769c998f97"
+
+[[files]]
+file = "kubejs/startup_scripts/metals.js"
+hash = "9bd31f14ea3748871c139d110c605ee2783430d842d57440f709b01cce68e197"
+
+[[files]]
+file = "kubejs/startup_scripts/register.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/actually-additions.pw.toml"
@@ -7832,21 +7848,6 @@ hash = "a4fc261260931f28bd822521ffa4082fb685cd79f1ae766d1407e9ca5be6a43e"
 metafile = true
 
 [[files]]
-file = "mods/create-ultimine.pw.toml"
-hash = "15842d4b438ac8537662f798b80621a876fc9ec7483c2917e41fc852ed07a364"
-metafile = true
-
-[[files]]
-file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
-metafile = true
-
-[[files]]
-file = "mods/createaddition.pw.toml"
-hash = "c7f69b2de149dd01dd6b7a73b45c19d246d583c691a74c1e3ff0b80909481a9a"
-metafile = true
-
-[[files]]
 file = "mods/cucumber.pw.toml"
 hash = "a1e99e73f9b3d71358832896d6a08d45c55b7a0037e00df69f98ba6880994341"
 metafile = true
@@ -7879,11 +7880,6 @@ metafile = true
 [[files]]
 file = "mods/ecologics.pw.toml"
 hash = "b5162861a3d393aafb2b02d91ab04b5732f82e3bafbbc3b3ec4e336337f2d7bf"
-metafile = true
-
-[[files]]
-file = "mods/electrodynamics.pw.toml"
-hash = "9e397fa4b5054642a083a4a1859121449eac18c9d6300c678e14eb76d9c83725"
 metafile = true
 
 [[files]]
@@ -8049,11 +8045,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-create.pw.toml"
-hash = "21a5deb5da882d9f3eb4eaf7f0cf77f52737e1e6b44d2f691bf10fda9c86d790"
 metafile = true
 
 [[files]]
@@ -8329,11 +8320,6 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "3cd7280f90ef9e2754cf2b6f45b749d1054c6348873a61044ce808dfe977c15a"
-metafile = true
-
-[[files]]
-file = "mods/voltaic-api.pw.toml"
-hash = "0370b72a5c14c7f3e7cf1b54837fd57adec00ee8ec4b3268c3fe496cbd74732d"
 metafile = true
 
 [[files]]
