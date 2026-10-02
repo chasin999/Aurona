@@ -7566,7 +7566,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "LICENSE"
-hash = "71fde1edcb300fade58a4190c11e15ddaae741b7f3cbfb6b100b8b20c41c6f67"
+hash = "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -7765,6 +7765,11 @@ metafile = true
 [[files]]
 file = "mods/astages.pw.toml"
 hash = "4204c6d9fa6f0a06ad20e813634c199114ed619680271da7f3a72f03bf779737"
+metafile = true
+
+[[files]]
+file = "mods/astral-sorcery.pw.toml"
+hash = "20d221d2f7b0729bff35b9faf181c8b144be0e0f8ba43f1187d7283ae87e85a3"
 metafile = true
 
 [[files]]
@@ -8153,13 +8158,13 @@ hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
 metafile = true
 
 [[files]]
-file = "mods/nuclear-science.pw.toml"
-hash = "444869561b53f9ae5f5b91ce059d7f25466f4b77d027e1c8d73036396111e2ba"
+file = "mods/observable.pw.toml"
+hash = "00fb150ec4389dbe540bcede8ac3b6e34677f5bf3e3454732d311b7e44569d63"
 metafile = true
 
 [[files]]
-file = "mods/observable.pw.toml"
-hash = "00fb150ec4389dbe540bcede8ac3b6e34677f5bf3e3454732d311b7e44569d63"
+file = "mods/observerlib.pw.toml"
+hash = "ff407a1e06ce5a70fd10e60a9c822a69d2722d8d1b5751918ff65145a976036e"
 metafile = true
 
 [[files]]
